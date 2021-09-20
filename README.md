@@ -15,10 +15,10 @@
  
  <img src="img/cs.png" width="25px" /> C# and asp.net
  
- ### Where to find me:
-<a href="https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/"><img src="img/linkedin.png" /></a>
-<a href="https://www.instagram.com/louisimtd/"><img src="img/insta.png" /></a>
-<a href="mailto:louisimtd@gmail.com"><img src="img/gmail.png" /></a>
+ #### Where to find me:
+<a href="https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/"><img src="img/linkedin.png" width="25px" /></a> 
+<a href="https://www.instagram.com/louisimtd/"><img src="img/insta.png" width="25px" /></a> 
+<a href="mailto:louisimtd@gmail.com"><img src="img/gmail.png" width="25px" /></a>
 
 
 
