@@ -7,19 +7,21 @@
 
 ### The technologies that I use are: 
 
- <img src="img/js.png" width="25px" /> JavaScript
+| :---         |     :---:      |
+
+ | <img src="img/js.png" width="25px" /> JavaScript    | <img src="img/cs.png" width="25px" /> C# and asp.net  |
  
- <img src="img/html.png" width="25px" /> HTML
+ | <img src="img/html.png" width="25px" /> HTML        | <img src="img/dart.png" width="25px" /> Dart  |
  
- <img src="img/css.png" width="25px" />  css
+ | <img src="img/css.png" width="25px" />  css         | <img src="img/flutter.png" width="25px" />  Flutter  |
  
- <img src="img/react.png" width="25px" /> React.js
+ | <img src="img/react.png" width="25px" /> React.js
  
- <img src="img/cs.png" width="25px" /> C# and asp.net
+
  
- <img src="img/dart.png" width="25px" /> Dart
+
  
- <img src="img/flutter.png" width="25px" />  Flutter
+ 
  
  #### Where to find me:
 <a href="https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/"><img src="img/linkedin.png" width="25px" /></a> 
