@@ -16,6 +16,14 @@
     <td> <img src="img/html.png" width="25px" /> HTML  </td>
     <td> <img src="img/dart.png" width="25px" /> Dart </td>
  </tr>
+ <tr>
+    <td> <img src="img/css.png" width="25px" />  css  </td>
+    <td> <img src="img/flutter.png" width="25px" />  Flutter </td>
+ </tr>
+ <tr>
+    <td> <img src="img/react.png" width="25px" /> React.js  </td>
+    <td>  </td>
+ </tr>
 </table>
 
 
