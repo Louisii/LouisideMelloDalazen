@@ -7,6 +7,20 @@
 
 ### The technologies that I use are: 
 
+<table>
+ <tr>
+    <td>  <img src="img/js.png" width="25px" /> JavaScript </td>
+    <td> <img src="img/cs.png" width="25px" /> C# and asp.net  </td>
+ </tr>
+ <tr>
+    <td> <img src="img/html.png" width="25px" /> HTML  </td>
+    <td> <img src="img/dart.png" width="25px" /> Dart </td>
+ </tr>
+</table>
+
+
+
+
 
  |-------------------------------------------------------------------------------------------------------------|
  | <img src="img/js.png" width="25px" /> JavaScript    | <img src="img/cs.png" width="25px" /> C# and asp.net  | 
