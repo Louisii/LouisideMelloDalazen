@@ -28,7 +28,7 @@
 </table>
 
 
- #### Where to find me:
+ #### Where you can find me:
 <a href="https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/"><img src="img/linkedin.png" width="25px" /></a> 
 <a href="https://www.instagram.com/louisimtd/"><img src="img/insta.png" width="25px" /></a> 
 <a href="mailto:louisimtd@gmail.com"><img src="img/gmail.png" width="25px" /></a>
