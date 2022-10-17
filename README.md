@@ -2,7 +2,6 @@
 
 #### My name is [Louisi](https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/), I am 18 years old and I'm a FrontEnd Developer from Brazil. I'm facinated about technology and love learning it. Also, I like to play games and hang with my friends <3. 
 
-<img src="https://i.pinimg.com/originals/12/78/45/127845a0cd31a3fc7ed551a01ef1ef56.gif" width="300px" align="right" />
 
 
 ### The technologies that I use are: 
