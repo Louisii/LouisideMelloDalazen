@@ -20,6 +20,10 @@
     <td> <img src="img/css.png" width="25px" />  css  </td>
     <td> <img src="img/java.png" width="25px" /> Java </td>
  </tr>
+ <tr>
+    <td> <img src="img/tailwind.png" width="25px" />  TailwindCSS  </td>
+    <td> <img src="img/react.png" width="25px" /> React.js </td>
+ </tr>
 </table>
 
 
