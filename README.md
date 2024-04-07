@@ -1,6 +1,6 @@
 ## Hi! Nice to see you
 
-#### My name is [Louisi](https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/), I am 19 years old and I'm a FrontEnd Developer from Brazil. I'm facinated about technology and love learning it. 
+#### My name is [Louisi](https://www.linkedin.com/in/louisi-de-mello-tomasi-dalazen-497a04207/), I am 20 years old and I'm a FullStack Developer from Brazil. I'm facinated about technology and love learning it. 
 
 
 
