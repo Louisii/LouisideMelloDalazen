@@ -5,27 +5,11 @@
 
 
 ### The technologies that I use are: 
-
-<table>
- <tr>
-    <td> <img src="img/tailwind.png" width="25px" />  TailwindCSS  </td>
-    <td> <img src="img/react.png" width="25px" /> React.js </td>
- </tr>
- <tr>
-    <td>  <img src="img/js.png" width="25px" /> JavaScript </td>
-    <td> <img src="img/cs.png" width="25px" /> C# </td>
- </tr>
- <tr>
-    <td> <img src="img/html.png" width="25px" /> HTML  </td>
-    <td> <img src="img/asp.png" width="25px" /> asp.net  </td>
-    
- </tr>
- <tr>
-    <td> <img src="img/css.png" width="25px" />  css  </td>
-    <td> <img src="img/java.png" width="25px" /> Java </td>
- </tr>
-
-</table>
+- Flutter
+- Swift
+- SwiftUI
+- Java
+- JavaScript
 
 
  #### Where you can find me:
