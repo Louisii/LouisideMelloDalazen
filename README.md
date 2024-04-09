@@ -5,9 +5,10 @@
 
 
 ### The technologies that I use are: 
-- Flutter
+
 - Swift
 - SwiftUI
+- Flutter
 - Java
 - JavaScript
 
